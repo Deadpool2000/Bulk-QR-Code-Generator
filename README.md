@@ -32,6 +32,10 @@ python -m BulkQR.py
 ```
 
 
+## A ready-to-use EXE File
+
+I made a simple exe file of this tool so anyone can use it on Windows.
+Get it from here - [Download](https://github.com/Deadpool2000/Bulk-QR-Code-Generator/releases/tag/v1.0)
 
 
 ## How to use it?
@@ -50,10 +54,7 @@ python -m BulkQR.py
 
 7. That's it.
 
-## A ready-to-use EXE File
 
-I made a simple exe file of this tool so anyone can use it on Windows.
-Get it from here - [Download](https://github.com/Deadpool2000/Bulk-QR-Code-Generator/releases/tag/v1.0)
 
 
 ## Contribution
